@@ -1,6 +1,6 @@
 # apartment-site
 
-# Preview [HERE]()
+# Preview [HERE](https://agarcian031.github.io/apartment-site/)
 ---
 ## Objective: HTML, CSS, and Form Practice for DPL Prepwork  
 ---
