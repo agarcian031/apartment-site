@@ -210,7 +210,8 @@ p {
     margin: auto; 
     width: 70%; 
     border-radius: 50%; 
-    filter: brightness(75%);
+    /* filter: brightness(75%); */
+    filter: sepia(60%); 
 }
 
 #about-info .info-left {
@@ -222,13 +223,14 @@ p {
 /* Testimonials */
 #testimonials {
     height: 600px; 
-    background:  url(../images/test2-bg.jpg) no-repeat center center/cover; 
+    background:  url(../images/test6-bg.jpg) no-repeat center center/cover; 
     /* filter: brightness(95%);  */
     padding-top: 100px; 
+    filter: sepia(50%); 
 }
 
 #testimonials h2 {
-    color: #333; 
+    color: #fff; 
     text-align: center; 
     padding-bottom: 40px; 
 }
