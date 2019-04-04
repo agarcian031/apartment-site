@@ -248,6 +248,35 @@ p {
 
 }
 
+/* Contact Form  */
+#contact-form .form-group {
+    margin-bottom: 20px; 
+
+}
+
+#contact-form label {
+    display: block; /* so it moves to next line */ 
+    margin-bottom: 5px; 
+}
+
+#contact-form input, 
+#contact-form textarea {
+    width: 100%; /*so it goes all the way across the container*/ 
+    padding: 10px; 
+    border: 3px #ddd solid; 
+    border-style: inset; 
+}
+
+#contact-form textarea {
+    height: 200px; 
+}
+
+#contact-form input:focus, 
+#contact-form textarea:focus {
+    outline: none; 
+    border-color: #f7c08a; 
+}
+
 
 /* Footer */
 #main-footer {
