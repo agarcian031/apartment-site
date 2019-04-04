@@ -279,6 +279,11 @@ p {
     border-color: #f7c08a; 
 }
 
+input[type=text], textarea {
+    background: #f6f6f6; 
+
+}
+
 
 /* Footer */
 #main-footer {
