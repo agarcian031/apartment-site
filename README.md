@@ -16,4 +16,5 @@ This is a project to focus on practicing and implementing the things learned fro
 * How to use CSS property filter. 
 * How to use floats and clear floats
 * :focus and other pseudoselectors 
+* Using [attribute] selectors. 
 
