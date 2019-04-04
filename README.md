@@ -6,7 +6,7 @@
 ---
 ### Overview: 
 
-This is a project to focus on practicing and implementing the things learned from DPL prep-work sections on HTML and CSS. The website is not completed yet and still needs a **contact** form. The project covers a mock site for an apartment complex. The website is not completely responsive yet.  
+This is a project to focus on practicing and implementing the things learned from DPL prep-work sections on HTML and CSS. The website is not yet completed, as it is not completely responsive yet. The project covers a mock site for an apartment complex.
 
 ---
 ### What Was Learned (so far): 
