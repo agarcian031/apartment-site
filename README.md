@@ -15,4 +15,5 @@ This is a project to focus on practicing and implementing the things learned fro
 * Utilizing Font Awesome Icons and how to resize the classes without css
 * How to use CSS property filter. 
 * How to use floats and clear floats
+* :focus and other pseudoselectors 
 
