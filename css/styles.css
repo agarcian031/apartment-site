@@ -151,7 +151,8 @@ p {
 
 #showcase .showcase-content h1 {
     font-size: 70px; 
-    line-height: 1.2em; 
+    line-height: 1.2em;  
+    text-shadow: 3px 3px #444;
 }
 
 #showcase .showcase-content p {
