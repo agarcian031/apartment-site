@@ -18,3 +18,7 @@ This is a project to focus on practicing and implementing the things learned fro
 * :focus and other pseudoselectors 
 * Using [attribute] selectors. 
 
+---
+### What Needs To Be Done: 
+* make the website responsive 
+
