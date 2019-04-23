@@ -17,8 +17,9 @@ This is a project to focus on practicing and implementing the things learned fro
 * How to use floats and clear floats
 * :focus and other pseudoselectors 
 * Using [attribute] selectors. 
+* Media Queries for responsive design
 
 ---
 ### What Needs To Be Done: 
-* make the website responsive 
+* make the contact page submit 
 
