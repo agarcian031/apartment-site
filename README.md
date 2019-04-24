@@ -17,7 +17,7 @@ This is a project to focus on practicing and implementing the things learned fro
 * How to use floats and clear floats
 * :focus and other pseudoselectors 
 * Using [attribute] selectors. 
-* Media Queries for responsive design
+* Media Queries for responsive design. Responsive on latest Iphones and Galaxy phones. 
 
 ---
 ### What Needs To Be Done: 
